@@ -6,7 +6,7 @@ app_publisher = "Shivansh"
 app_description = "AMCC Custom Development"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "shivansh@beverensoftware.com"
+app_email = "shivansh@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>
@@ -199,7 +199,3 @@ user_data_fields = [
 #	"amcc_app.auth.validate"
 # ]
 
-
-fixtures = [
-    "Purchase Order",
-]
