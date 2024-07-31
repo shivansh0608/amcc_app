@@ -199,3 +199,6 @@ user_data_fields = [
 #	"amcc_app.auth.validate"
 # ]
 
+fixtures = [
+    "Purchase Order",
+]
