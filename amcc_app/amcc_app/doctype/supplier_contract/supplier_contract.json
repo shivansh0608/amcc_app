@@ -54,7 +54,6 @@
    "label": "Date"
   },
   {
-   "allow_on_submit": 1,
    "depends_on": "doc.user==\"safa@misaudi.com\"",
    "fieldname": "contract_attachment",
    "fieldtype": "Attach",
@@ -89,7 +88,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-08-05 11:28:58.129603",
+ "modified": "2024-08-05 21:12:25.581140",
  "modified_by": "Administrator",
  "module": "AMCC App",
  "name": "Supplier Contract",
