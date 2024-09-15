@@ -191,6 +191,8 @@ user_data_fields = [
 		"doctype": "{doctype_4}"
 	}
 ]
+# see if its working
+
 
 # Authentication and authorization
 # --------------------------------
@@ -200,22 +202,5 @@ user_data_fields = [
 # ]
 
 fixtures = [
-    {"dt": "Custom Field", 
-        "filters": [
-            [
-                "name", "in", {"Purchase Order-approval_section",
-                               "Purchase Order-po_manager_name",
-                               "Purchase Order-pom_date",
-                               "Purchase Order-column_break_duvjp",
-                               "Purchase Order-fc_name",
-                               "Purchase Order-fcm_date",
-                               "Purchase Order-gm_approver_name",
-                               "Purchase Order-gmm_date",
-			
-   	}
+    "Purchase Order",
 ]
-		]
-            
-	}
-]
-    
